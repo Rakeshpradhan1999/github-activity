@@ -74,3 +74,7 @@ Starred example-repo
 ## API Reference
 
 - [GitHub Events API](https://docs.github.com/en/rest/reference/activity#events)
+
+## Roadmap Project Link
+
+https://roadmap.sh/projects/github-user-activity
